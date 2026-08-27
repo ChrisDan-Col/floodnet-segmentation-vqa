@@ -1,0 +1,13 @@
+# Python dependencies for the project (install inside the venv).
+# NOTE: torch and torchvision are NOT here on purpose: the GPU build must be
+# installed separately with the CUDA index url (see setup_uni_env.ps1).
+transformers
+peft
+mlflow
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+scikit-image
