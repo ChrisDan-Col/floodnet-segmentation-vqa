@@ -1,0 +1,55 @@
+08:56:20  device: cuda | run dir: .\experiments\ssl_mae\default
+08:56:20  config: {'images_csv': '.\\prepared_data\\ssl_images.csv', 'out_dir': '.\\experiments\\ssl_mae', 'model_name': 'facebook/vit-mae-base', 'img_size': 224, 'mask_ratio': 0.75, 'norm_pix_loss': 0, 'batch_size': 32, 'epochs': 50, 'patience': 8, 'lr': 0.00015, 'weight_decay': 0.05, 'dropout': 0.0, 'val_frac': 0.05, 'num_workers': 2, 'vis_every': 10, 'seed': 42, 'resume': False, 'exp_name': 'ssl_mae', 'use_mlflow': 1, 'agent': False, 'n_trials': 4, 'llm_name': 'ank028/Llama-3.2-1B-Instruct-medmcqa', 'llm_cpu': False}
+08:56:20  images: 2348 (train 2231 / val 117)
+08:56:27  mlflow tracking uri: file:///C:/Users/Student/Documents/Codes_4/mlruns
+08:59:52  epoch   1/50  train_loss 0.1313  val_loss 0.1056  val_psnr 22.70  val_ssim 0.7185
+09:02:53  epoch   2/50  train_loss 0.1263  val_loss 0.1044  val_psnr 22.75  val_ssim 0.7200
+09:05:49  epoch   3/50  train_loss 0.1249  val_loss 0.1045  val_psnr 22.74  val_ssim 0.7174
+09:08:36  epoch   4/50  train_loss 0.1222  val_loss 0.1039  val_psnr 22.77  val_ssim 0.7190
+09:11:37  epoch   5/50  train_loss 0.1206  val_loss 0.1033  val_psnr 22.79  val_ssim 0.7197
+09:14:36  epoch   6/50  train_loss 0.1199  val_loss 0.1029  val_psnr 22.81  val_ssim 0.7198
+09:17:36  epoch   7/50  train_loss 0.1188  val_loss 0.1015  val_psnr 22.87  val_ssim 0.7208
+09:20:30  epoch   8/50  train_loss 0.1184  val_loss 0.1024  val_psnr 22.83  val_ssim 0.7194
+09:23:17  epoch   9/50  train_loss 0.1165  val_loss 0.1017  val_psnr 22.86  val_ssim 0.7198
+09:26:02  epoch  10/50  train_loss 0.1162  val_loss 0.1002  val_psnr 22.93  val_ssim 0.7206
+09:29:00  epoch  11/50  train_loss 0.1147  val_loss 0.1001  val_psnr 22.93  val_ssim 0.7201
+09:31:57  epoch  12/50  train_loss 0.1137  val_loss 0.1008  val_psnr 22.90  val_ssim 0.7203
+09:34:42  epoch  13/50  train_loss 0.1136  val_loss 0.0991  val_psnr 22.98  val_ssim 0.7206
+09:37:30  epoch  14/50  train_loss 0.1130  val_loss 0.1004  val_psnr 22.91  val_ssim 0.7203
+09:40:12  epoch  15/50  train_loss 0.1124  val_loss 0.0982  val_psnr 23.02  val_ssim 0.7206
+09:43:05  epoch  16/50  train_loss 0.1105  val_loss 0.0990  val_psnr 22.98  val_ssim 0.7214
+09:45:46  epoch  17/50  train_loss 0.1100  val_loss 0.0985  val_psnr 23.00  val_ssim 0.7216
+09:48:29  epoch  18/50  train_loss 0.1092  val_loss 0.0985  val_psnr 23.00  val_ssim 0.7211
+09:51:10  epoch  19/50  train_loss 0.1080  val_loss 0.0977  val_psnr 23.04  val_ssim 0.7213
+09:54:02  epoch  20/50  train_loss 0.1077  val_loss 0.0996  val_psnr 22.96  val_ssim 0.7205
+09:56:44  epoch  21/50  train_loss 0.1072  val_loss 0.0984  val_psnr 23.01  val_ssim 0.7213
+09:59:29  epoch  22/50  train_loss 0.1057  val_loss 0.0992  val_psnr 22.98  val_ssim 0.7214
+10:02:11  epoch  23/50  train_loss 0.1053  val_loss 0.0974  val_psnr 23.05  val_ssim 0.7212
+10:04:59  epoch  24/50  train_loss 0.1040  val_loss 0.0982  val_psnr 23.02  val_ssim 0.7212
+10:07:42  epoch  25/50  train_loss 0.1029  val_loss 0.0986  val_psnr 23.00  val_ssim 0.7216
+10:10:24  epoch  26/50  train_loss 0.1029  val_loss 0.0982  val_psnr 23.02  val_ssim 0.7210
+10:13:07  epoch  27/50  train_loss 0.1026  val_loss 0.0972  val_psnr 23.06  val_ssim 0.7218
+10:15:58  epoch  28/50  train_loss 0.1015  val_loss 0.0976  val_psnr 23.05  val_ssim 0.7212
+10:18:39  epoch  29/50  train_loss 0.1020  val_loss 0.0970  val_psnr 23.07  val_ssim 0.7215
+10:21:29  epoch  30/50  train_loss 0.1009  val_loss 0.0971  val_psnr 23.06  val_ssim 0.7215
+10:24:12  epoch  31/50  train_loss 0.0995  val_loss 0.0980  val_psnr 23.03  val_ssim 0.7215
+10:26:53  epoch  32/50  train_loss 0.0993  val_loss 0.0959  val_psnr 23.13  val_ssim 0.7219
+10:29:45  epoch  33/50  train_loss 0.0988  val_loss 0.0964  val_psnr 23.10  val_ssim 0.7215
+10:32:27  epoch  34/50  train_loss 0.0984  val_loss 0.0961  val_psnr 23.11  val_ssim 0.7223
+10:35:09  epoch  35/50  train_loss 0.0982  val_loss 0.0960  val_psnr 23.12  val_ssim 0.7222
+10:37:51  epoch  36/50  train_loss 0.0974  val_loss 0.0964  val_psnr 23.10  val_ssim 0.7223
+10:40:33  epoch  37/50  train_loss 0.0963  val_loss 0.0962  val_psnr 23.11  val_ssim 0.7221
+10:43:15  epoch  38/50  train_loss 0.0969  val_loss 0.0953  val_psnr 23.16  val_ssim 0.7221
+10:46:08  epoch  39/50  train_loss 0.0957  val_loss 0.0953  val_psnr 23.16  val_ssim 0.7225
+10:48:51  epoch  40/50  train_loss 0.0943  val_loss 0.0938  val_psnr 23.21  val_ssim 0.7226
+10:51:43  epoch  41/50  train_loss 0.0935  val_loss 0.0937  val_psnr 23.22  val_ssim 0.7229
+10:54:32  epoch  42/50  train_loss 0.0928  val_loss 0.0950  val_psnr 23.17  val_ssim 0.7229
+10:57:15  epoch  43/50  train_loss 0.0933  val_loss 0.0946  val_psnr 23.18  val_ssim 0.7219
+10:59:56  epoch  44/50  train_loss 0.0928  val_loss 0.0948  val_psnr 23.18  val_ssim 0.7226
+11:02:37  epoch  45/50  train_loss 0.0924  val_loss 0.0965  val_psnr 23.10  val_ssim 0.7215
+11:05:17  epoch  46/50  train_loss 0.0929  val_loss 0.0961  val_psnr 23.12  val_ssim 0.7219
+11:07:54  epoch  47/50  train_loss 0.0920  val_loss 0.0946  val_psnr 23.18  val_ssim 0.7220
+11:10:29  epoch  48/50  train_loss 0.0911  val_loss 0.0951  val_psnr 23.16  val_ssim 0.7213
+11:13:03  epoch  49/50  train_loss 0.0896  val_loss 0.0944  val_psnr 23.19  val_ssim 0.7224
+11:13:05  early stopping at epoch 49 (no val improvement for 8 epochs)
+11:13:05  done. best val_loss = 0.0937

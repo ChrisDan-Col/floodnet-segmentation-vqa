@@ -1,0 +1,4 @@
+Best experiment: bs16_do0.1_lr1e-05_wd0.01
+Folder: .\experiments\ssl_mae\bs16_do0.1_lr1e-05_wd0.01
+Best model checkpoint: .\experiments\ssl_mae\bs16_do0.1_lr1e-05_wd0.01\encoder_best
+val_psnr=23.13  val_ssim=0.7228  val_loss=0.0970  overfit_gap=-0.0311  score=0.878
