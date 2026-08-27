@@ -1,0 +1,6113 @@
+[
+  {
+    "image_id": "10171",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "10171",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10171",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10171",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "10171",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "10176",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10176",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10176",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "10806",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "10806",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "10806",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10806",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10806",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "10817",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10817",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "10817",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "10817",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "10817",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "10836",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6351",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6351",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6351",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6354",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "6354",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6354",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6364",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6364",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6364",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "6388",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6388",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6388",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6402",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6402",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6402",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "6404",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6404",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6404",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6411",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "6411",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6411",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "6411",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6411",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6421",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "7",
+    "correct": false,
+    "raw": "7"
+  },
+  {
+    "image_id": "6421",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6421",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "7",
+    "correct": false,
+    "raw": "7"
+  },
+  {
+    "image_id": "6421",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6421",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6443",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6443",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6443",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6444",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6444",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6444",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6446",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6446",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6446",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6455",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "3",
+    "pred": "4",
+    "correct": false,
+    "raw": "4"
+  },
+  {
+    "image_id": "6455",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "4",
+    "correct": false,
+    "raw": "4"
+  },
+  {
+    "image_id": "6455",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6456",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "3",
+    "pred": "6",
+    "correct": false,
+    "raw": "6"
+  },
+  {
+    "image_id": "6456",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6456",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6456",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "3",
+    "pred": "6",
+    "correct": false,
+    "raw": "6"
+  },
+  {
+    "image_id": "6456",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6461",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6461",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6461",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6462",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6462",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6462",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6464",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "7",
+    "pred": "10",
+    "correct": false,
+    "raw": "10"
+  },
+  {
+    "image_id": "6464",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6464",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "7",
+    "pred": "10",
+    "correct": false,
+    "raw": "10"
+  },
+  {
+    "image_id": "6478",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6513",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6513",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "5",
+    "correct": false,
+    "raw": "5"
+  },
+  {
+    "image_id": "6513",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "5",
+    "correct": false,
+    "raw": "5"
+  },
+  {
+    "image_id": "6516",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6516",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6516",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6531",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6531",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "3",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6531",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6531",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6531",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6534",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6534",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6534",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6534",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "6534",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6540",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6556",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "4",
+    "pred": "3",
+    "correct": false,
+    "raw": "3"
+  },
+  {
+    "image_id": "6556",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6556",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "3",
+    "correct": false,
+    "raw": "3"
+  },
+  {
+    "image_id": "6563",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6563",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "6563",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6563",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6563",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6595",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6617",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6617",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6617",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "non flooded",
+    "correct": false,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6628",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6628",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6628",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6628",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6628",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6633",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "non flooded",
+    "correct": false,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6633",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6633",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6640",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6640",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "6640",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6640",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6640",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "6648",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6648",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6648",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6648",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6648",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6651",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "6651",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6651",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6651",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "6651",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6660",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6660",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6660",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6660",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6660",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6664",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "6664",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "6664",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6667",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6692",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6692",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6692",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6692",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6692",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6711",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "6711",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "6711",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6711",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "9",
+    "pred": "9",
+    "correct": true,
+    "raw": "9"
+  },
+  {
+    "image_id": "6711",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded in this image?",
+    "gt": "8",
+    "pred": "8",
+    "correct": true,
+    "raw": "8"
+  },
+  {
+    "image_id": "6711",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "6739",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6739",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6739",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "3",
+    "pred": "6",
+    "correct": false,
+    "raw": "6"
+  },
+  {
+    "image_id": "6748",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6748",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6748",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6748",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6748",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6749",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6749",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "4",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6749",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6754",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6754",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6754",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6754",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "3",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6754",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "3",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "6755",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6755",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6755",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6763",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6763",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6763",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6792",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "8",
+    "pred": "5",
+    "correct": false,
+    "raw": "5"
+  },
+  {
+    "image_id": "6792",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6792",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6792",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6792",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "8",
+    "pred": "5",
+    "correct": false,
+    "raw": "5"
+  },
+  {
+    "image_id": "6814",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6814",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6814",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6819",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6819",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6819",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6819",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "6819",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "6842",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "6842",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6842",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6842",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6842",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "6843",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6843",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6843",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "7",
+    "pred": "7",
+    "correct": true,
+    "raw": "7"
+  },
+  {
+    "image_id": "6843",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6843",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "7",
+    "pred": "7",
+    "correct": true,
+    "raw": "7"
+  },
+  {
+    "image_id": "6853",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6853",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6853",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6853",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6853",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6900",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6900",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6900",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6900",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6900",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6909",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6909",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6909",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6909",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6909",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6914",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6914",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6914",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6953",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6953",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6953",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6953",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "6953",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6964",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6964",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6964",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6964",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "6964",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6972",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "6972",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "3",
+    "pred": "6",
+    "correct": false,
+    "raw": "6"
+  },
+  {
+    "image_id": "6972",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "3",
+    "pred": "6",
+    "correct": false,
+    "raw": "6"
+  },
+  {
+    "image_id": "6972",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6972",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6982",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6982",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6982",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6982",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6982",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "6997",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6997",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6997",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "6998",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6998",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "6998",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "7003",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7008",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7027",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7044",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7044",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7044",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7046",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7046",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7046",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7071",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7071",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7071",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "7072",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7072",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7072",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7079",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7081",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7082",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7094",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7110",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7110",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "7110",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7110",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7110",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7115",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "7115",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7115",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7115",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "7115",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7165",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7170",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7175",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "7175",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7175",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7176",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7176",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7176",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7186",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7189",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7195",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7195",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7195",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7195",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7195",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7205",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "non flooded",
+    "correct": false,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7205",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7205",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7205",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7205",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7209",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7209",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7209",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7211",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7211",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7211",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "7256",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7256",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "9",
+    "pred": "9",
+    "correct": true,
+    "raw": "9"
+  },
+  {
+    "image_id": "7256",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7256",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "9",
+    "pred": "9",
+    "correct": true,
+    "raw": "9"
+  },
+  {
+    "image_id": "7256",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7258",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7258",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7258",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "7258",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "7258",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "7258",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7265",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7265",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7265",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "14",
+    "pred": "13",
+    "correct": false,
+    "raw": "13"
+  },
+  {
+    "image_id": "7265",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "14",
+    "pred": "13",
+    "correct": false,
+    "raw": "13"
+  },
+  {
+    "image_id": "7265",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7270",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7270",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "8",
+    "pred": "8",
+    "correct": true,
+    "raw": "8"
+  },
+  {
+    "image_id": "7270",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "8",
+    "pred": "8",
+    "correct": true,
+    "raw": "8"
+  },
+  {
+    "image_id": "7299",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7299",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "13",
+    "pred": "13",
+    "correct": true,
+    "raw": "13"
+  },
+  {
+    "image_id": "7299",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7299",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7299",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "13",
+    "pred": "13",
+    "correct": true,
+    "raw": "13"
+  },
+  {
+    "image_id": "7316",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "18",
+    "pred": "17",
+    "correct": false,
+    "raw": "17"
+  },
+  {
+    "image_id": "7316",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "14",
+    "pred": "13",
+    "correct": false,
+    "raw": "13"
+  },
+  {
+    "image_id": "7316",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7316",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7316",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "7316",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7321",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "19",
+    "pred": "19",
+    "correct": true,
+    "raw": "19"
+  },
+  {
+    "image_id": "7321",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7321",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7321",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7321",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "16",
+    "pred": "16",
+    "correct": true,
+    "raw": "16"
+  },
+  {
+    "image_id": "7321",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "7322",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7322",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "23",
+    "pred": "23",
+    "correct": true,
+    "raw": "23"
+  },
+  {
+    "image_id": "7322",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded in this image?",
+    "gt": "20",
+    "pred": "20",
+    "correct": true,
+    "raw": "20"
+  },
+  {
+    "image_id": "7322",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "7322",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7322",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7332",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7332",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7332",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded in this image?",
+    "gt": "16",
+    "pred": "15",
+    "correct": false,
+    "raw": "15"
+  },
+  {
+    "image_id": "7332",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "17",
+    "pred": "16",
+    "correct": false,
+    "raw": "16"
+  },
+  {
+    "image_id": "7332",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7332",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7353",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "non flooded",
+    "correct": false,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7353",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7353",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7354",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "7354",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7354",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7354",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7354",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "7377",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7377",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7377",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7377",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "7377",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7377",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "7430",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "non flooded",
+    "correct": false,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7430",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "11",
+    "pred": "10",
+    "correct": false,
+    "raw": "10"
+  },
+  {
+    "image_id": "7430",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded in this image?",
+    "gt": "11",
+    "pred": "10",
+    "correct": false,
+    "raw": "10"
+  },
+  {
+    "image_id": "7445",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "6",
+    "pred": "3",
+    "correct": false,
+    "raw": "3"
+  },
+  {
+    "image_id": "7445",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "flooded",
+    "correct": false,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7445",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "6",
+    "pred": "3",
+    "correct": false,
+    "raw": "3"
+  },
+  {
+    "image_id": "7453",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7453",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7453",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7453",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7453",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7463",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7463",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "13",
+    "pred": "8",
+    "correct": false,
+    "raw": "8"
+  },
+  {
+    "image_id": "7463",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7463",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "4",
+    "pred": "3",
+    "correct": false,
+    "raw": "3"
+  },
+  {
+    "image_id": "7463",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded in this image?",
+    "gt": "9",
+    "pred": "5",
+    "correct": false,
+    "raw": "5"
+  },
+  {
+    "image_id": "7463",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7473",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "16",
+    "pred": "16",
+    "correct": true,
+    "raw": "16"
+  },
+  {
+    "image_id": "7473",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "16",
+    "pred": "16",
+    "correct": true,
+    "raw": "16"
+  },
+  {
+    "image_id": "7473",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7473",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7473",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7522",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7522",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "23",
+    "pred": "24",
+    "correct": false,
+    "raw": "24"
+  },
+  {
+    "image_id": "7522",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7522",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "23",
+    "pred": "22",
+    "correct": false,
+    "raw": "22"
+  },
+  {
+    "image_id": "7522",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7523",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "21",
+    "pred": "23",
+    "correct": false,
+    "raw": "23"
+  },
+  {
+    "image_id": "7523",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "21",
+    "pred": "22",
+    "correct": false,
+    "raw": "22"
+  },
+  {
+    "image_id": "7523",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7523",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7523",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7542",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7542",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "30",
+    "pred": "25",
+    "correct": false,
+    "raw": "25"
+  },
+  {
+    "image_id": "7542",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7542",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "30",
+    "pred": "25",
+    "correct": false,
+    "raw": "25"
+  },
+  {
+    "image_id": "7542",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7597",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "13",
+    "pred": "11",
+    "correct": false,
+    "raw": "11"
+  },
+  {
+    "image_id": "7597",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "13",
+    "pred": "11",
+    "correct": false,
+    "raw": "11"
+  },
+  {
+    "image_id": "7597",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7597",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7597",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7603",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7603",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7603",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "7",
+    "pred": "7",
+    "correct": true,
+    "raw": "7"
+  },
+  {
+    "image_id": "7603",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7603",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded?",
+    "gt": "7",
+    "pred": "7",
+    "correct": true,
+    "raw": "7"
+  },
+  {
+    "image_id": "7609",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7609",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "18",
+    "pred": "18",
+    "correct": true,
+    "raw": "18"
+  },
+  {
+    "image_id": "7609",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7609",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7609",
+    "type": "Complex_Counting",
+    "question": "How many flooded buildings can be seen in this image?",
+    "gt": "18",
+    "pred": "18",
+    "correct": true,
+    "raw": "18"
+  },
+  {
+    "image_id": "7614",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "flooded",
+    "correct": true,
+    "raw": "flooded"
+  },
+  {
+    "image_id": "7614",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7614",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "18",
+    "pred": "16",
+    "correct": false,
+    "raw": "16"
+  },
+  {
+    "image_id": "7614",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "flooded,non flooded",
+    "pred": "flooded,non flooded",
+    "correct": true,
+    "raw": "flooded,non flooded"
+  },
+  {
+    "image_id": "7614",
+    "type": "Complex_Counting",
+    "question": "How many buildings are flooded in this image?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "7614",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "13",
+    "pred": "11",
+    "correct": false,
+    "raw": "11"
+  },
+  {
+    "image_id": "7645",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7645",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "non flooded",
+    "correct": false,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7645",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7645",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7645",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7665",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7665",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7665",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7680",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7680",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "7680",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7680",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "7680",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7702",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7702",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7702",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "7702",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7702",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7704",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7707",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7714",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7715",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7724",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7750",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7750",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7750",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7750",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "7750",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7766",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7798",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7809",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7837",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7865",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7868",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7878",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7882",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7882",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7882",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7894",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7894",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7894",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7895",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7895",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7895",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7910",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7916",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7916",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7916",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7917",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7917",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7917",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7944",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7954",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7971",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7977",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7977",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "7977",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7980",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "7980",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "7980",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8011",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8024",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8032",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8047",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8068",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8068",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8068",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8077",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8077",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8077",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8081",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8081",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8081",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8086",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8086",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8086",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8093",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8093",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8093",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8107",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8119",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8131",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8141",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8152",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8152",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8152",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8166",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8166",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "8166",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8167",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8167",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8167",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "8172",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8172",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8172",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8193",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8230",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8240",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8241",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8245",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8265",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8298",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8298",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8298",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8319",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8334",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8357",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8357",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8357",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8359",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8359",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8359",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8359",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8359",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8371",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8371",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8371",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8371",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8371",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8379",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "flooded",
+    "pred": "non flooded",
+    "correct": false,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8380",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8386",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8398",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8398",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8398",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8398",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8398",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8405",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8405",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "3",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "8405",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "3",
+    "pred": "2",
+    "correct": false,
+    "raw": "2"
+  },
+  {
+    "image_id": "8413",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8417",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8418",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8425",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8425",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8425",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8480",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8480",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8480",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8490",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8490",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "8490",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8490",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8490",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "8492",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8492",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "8492",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8492",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "8492",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8493",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "8493",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8493",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8493",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "8493",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8496",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8496",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8496",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "8496",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8496",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8507",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8508",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8512",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8550",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8555",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8589",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8590",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8604",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8605",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8774",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8774",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8774",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8798",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8803",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8805",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8805",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8805",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8907",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8907",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "8907",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8909",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "8909",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8909",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8910",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8910",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8910",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8918",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8918",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8918",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8943",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8943",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8943",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8943",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "8943",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8955",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8955",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8955",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes\n\nAnswer the question about a flooded aerial scene using ONLY"
+  },
+  {
+    "image_id": "8955",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8955",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8966",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8966",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8966",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8971",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8971",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "8971",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "8971",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "8971",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "9026",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "9026",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9026",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9036",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "9036",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "9036",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9036",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9036",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "9053",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "4",
+    "pred": "5",
+    "correct": false,
+    "raw": "5"
+  },
+  {
+    "image_id": "9053",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9053",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "9053",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "5",
+    "correct": false,
+    "raw": "5"
+  },
+  {
+    "image_id": "9053",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9091",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9091",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "9091",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "4",
+    "pred": "4",
+    "correct": true,
+    "raw": "4"
+  },
+  {
+    "image_id": "9091",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "9091",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9101",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9101",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "9101",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "9101",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9101",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "6",
+    "pred": "6",
+    "correct": true,
+    "raw": "6"
+  },
+  {
+    "image_id": "9106",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "6",
+    "pred": "7",
+    "correct": false,
+    "raw": "7"
+  },
+  {
+    "image_id": "9106",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "6",
+    "pred": "7",
+    "correct": false,
+    "raw": "7"
+  },
+  {
+    "image_id": "9106",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "9106",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9106",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9115",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "9115",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9115",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "9115",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "9115",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9278",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9278",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9278",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "9343",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "9343",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "50",
+    "pred": "42",
+    "correct": false,
+    "raw": "42"
+  },
+  {
+    "image_id": "9343",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "50",
+    "pred": "42",
+    "correct": false,
+    "raw": "42"
+  },
+  {
+    "image_id": "9343",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9343",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9351",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "46",
+    "pred": "40",
+    "correct": false,
+    "raw": "40"
+  },
+  {
+    "image_id": "9351",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9351",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "46",
+    "pred": "40",
+    "correct": false,
+    "raw": "40"
+  },
+  {
+    "image_id": "9351",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  },
+  {
+    "image_id": "9351",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9459",
+    "type": "Complex_Counting",
+    "question": "How many non flooded buildings can be seen in this image?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "9459",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9459",
+    "type": "Yes_No",
+    "question": "Is the entire road non flooded?",
+    "gt": "Yes",
+    "pred": "yes",
+    "correct": true,
+    "raw": "Yes"
+  },
+  {
+    "image_id": "9459",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of road?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9459",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "5",
+    "pred": "5",
+    "correct": true,
+    "raw": "5"
+  },
+  {
+    "image_id": "9875",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "9875",
+    "type": "Simple_Counting",
+    "question": "How many buildings can be seen in this image?",
+    "gt": "2",
+    "pred": "2",
+    "correct": true,
+    "raw": "2"
+  },
+  {
+    "image_id": "9875",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9880",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9880",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded in this image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "9880",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in the image?",
+    "gt": "1",
+    "pred": "1",
+    "correct": true,
+    "raw": "1"
+  },
+  {
+    "image_id": "9887",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9925",
+    "type": "Simple_Counting",
+    "question": "How many buildings are in this image?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "9925",
+    "type": "Condition_Recognition",
+    "question": "What is the condition of the road in this image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9925",
+    "type": "Complex_Counting",
+    "question": "How many buildings are non flooded?",
+    "gt": "3",
+    "pred": "3",
+    "correct": true,
+    "raw": "3"
+  },
+  {
+    "image_id": "9925",
+    "type": "Condition_Recognition",
+    "question": "What is the overall condition of the given image?",
+    "gt": "non flooded",
+    "pred": "non flooded",
+    "correct": true,
+    "raw": "non flooded"
+  },
+  {
+    "image_id": "9925",
+    "type": "Yes_No",
+    "question": "Is the entire road flooded?",
+    "gt": "No",
+    "pred": "no",
+    "correct": true,
+    "raw": "No"
+  }
+]

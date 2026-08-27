@@ -1,0 +1,14 @@
+21:34:29  config: {'approach': 'lora', 'train_csv': '.\\prepared_data\\vqa_train.csv', 'val_csv': '.\\prepared_data\\vqa_val.csv', 'test_csv': '.\\prepared_data\\vqa_test.csv', 'facts': '.\\prepared_data\\facts_gt.json', 'images_dir': '.\\Datasets\\FloodNet Challenge - Track 2\\Images', 'use_facts': 0, 'facts_mode': 'feat', 'label_smoothing': 0.05, 'out_dir': '.\\experiments\\vqa', 'llm_name': 'ank028/Llama-3.2-1B-Instruct-medmcqa', 'llm_cpu': False, 'lora_epochs': 3, 'lora_r': 8, 'img_size': 0, 'batch_size': 4, 'epochs': 20, 'patience': 5, 'lr': 0.0001, 'weight_decay': 0.0001, 'dropout': 0.1, 'num_workers': 4, 'seed': 42, 'resume': False, 'test': False, 'vis': 12, 'masks_csv': '.\\prepared_data\\seg_train.csv,.\\prepared_data\\seg_val.csv,.\\prepared_data\\seg_test.csv'}
+21:36:40  config: {'approach': 'lora', 'train_csv': '.\\prepared_data\\vqa_train.csv', 'val_csv': '.\\prepared_data\\vqa_val.csv', 'test_csv': '.\\prepared_data\\vqa_test.csv', 'facts': '.\\prepared_data\\facts_gt.json', 'images_dir': '.\\Datasets\\FloodNet Challenge - Track 2\\Images', 'use_facts': 0, 'facts_mode': 'feat', 'label_smoothing': 0.05, 'out_dir': '.\\experiments\\vqa', 'llm_name': 'ank028/Llama-3.2-1B-Instruct-medmcqa', 'llm_cpu': False, 'lora_epochs': 3, 'lora_r': 8, 'img_size': 0, 'batch_size': 4, 'epochs': 20, 'patience': 5, 'lr': 0.0001, 'weight_decay': 0.0001, 'dropout': 0.1, 'num_workers': 4, 'seed': 42, 'resume': False, 'test': False, 'vis': 12, 'masks_csv': '.\\prepared_data\\seg_train.csv,.\\prepared_data\\seg_val.csv,.\\prepared_data\\seg_test.csv'}
+21:36:46  LoRA on 3140 train examples with facts (rank 8, 3 epochs)
+21:37:32  epoch 1/3  train_loss 0.3860
+21:38:18  epoch 2/3  train_loss 0.1192
+21:39:04  epoch 3/3  train_loss 0.1127
+21:39:04  saved LoRA adapter -> .\experiments\vqa\lora\adapter
+21:39:11  answered 100/679
+21:39:17  answered 200/679
+21:39:23  answered 300/679
+21:39:28  answered 400/679
+21:39:34  answered 500/679
+21:39:41  answered 600/679
+21:39:46  val: overall 0.9028 | {'Simple_Counting': 0.716, 'Complex_Counting': 0.739, 'Yes_No': 1.0, 'Condition_Recognition': 0.977}
