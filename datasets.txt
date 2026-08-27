@@ -1,0 +1,26 @@
+The FloodNet dataset must be downloaded separately.
+
+- Supervised segmentation set (images and masks):
+  https://github.com/BinaLab/FloodNet-Supervised_v1.0
+- Challenge set with the VQA questions (Kaggle mirror, Track 1 and Track 2):
+  https://www.kaggle.com/datasets/aletbm/aerial-imagery-dataset-floodnet-challenge
+
+The Kaggle set can be downloaded with the included script:
+
+    python download_kaggle.py
+
+
+Create a folder named "Datasets" next to the scripts and extract the datasets into it, so the layout is:
+
+    Datasets/
+      FloodNet-Supervised_v1.0/
+        train/   (train-org-img, train-label-img)
+        val/     (val-org-img,   val-label-img)
+        test/    (test-org-img,  test-label-img)
+      FloodNet Challenge - Track 1/
+      FloodNet Challenge - Track 2/
+        Images/
+        Questions/Training Question.json
+
+The scripts read from DATA_ROOT = ".\Datasets" (see the top of "prepare_segmentation.py" and "prepare_vqa.py"). 
+If the datasets are kept somewhere else, edit "DATA_ROOT" and the related paths at the top of those scripts before running them.
