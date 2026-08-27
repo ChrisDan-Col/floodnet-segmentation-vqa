@@ -1,0 +1,683 @@
+﻿image_id;question;answer;type
+10171;Is the entire road flooded?;No;Yes_No
+10171;What is the overall condition of the given image?;non flooded;Condition_Recognition
+10171;What is the condition of the road in this image?;non flooded;Condition_Recognition
+10171;How many buildings are in this image?;4;Simple_Counting
+10171;How many buildings are non flooded?;4;Complex_Counting
+10176;What is the overall condition of the given image?;non flooded;Condition_Recognition
+10176;What is the condition of the road in this image?;non flooded;Condition_Recognition
+10176;Is the entire road non flooded?;Yes;Yes_No
+10806;Is the entire road non flooded?;Yes;Yes_No
+10806;How many buildings are non flooded in this image?;6;Complex_Counting
+10806;What is the overall condition of the given image?;non flooded;Condition_Recognition
+10806;What is the condition of the road in this image?;non flooded;Condition_Recognition
+10806;How many buildings are in this image?;6;Simple_Counting
+10817;What is the overall condition of the given image?;non flooded;Condition_Recognition
+10817;Is the entire road non flooded?;Yes;Yes_No
+10817;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+10817;How many buildings are in the image?;3;Simple_Counting
+10817;What is the condition of road?;non flooded;Condition_Recognition
+10836;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6351;What is the condition of road?;non flooded;Condition_Recognition
+6351;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6351;Is the entire road flooded?;No;Yes_No
+6354;Is the entire road non flooded?;Yes;Yes_No
+6354;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6354;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6364;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6364;What is the condition of road?;non flooded;Condition_Recognition
+6364;Is the entire road non flooded?;Yes;Yes_No
+6388;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6388;Is the entire road flooded?;No;Yes_No
+6388;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6402;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6402;What is the condition of road?;non flooded;Condition_Recognition
+6402;Is the entire road non flooded?;Yes;Yes_No
+6404;What is the condition of road?;non flooded;Condition_Recognition
+6404;Is the entire road flooded?;No;Yes_No
+6404;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6411;How many buildings can be seen in this image?;6;Simple_Counting
+6411;Is the entire road non flooded?;Yes;Yes_No
+6411;How many buildings are non flooded in this image?;6;Complex_Counting
+6411;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6411;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6421;How many non flooded buildings can be seen in this image?;4;Complex_Counting
+6421;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6421;How many buildings can be seen in this image?;4;Simple_Counting
+6421;What is the condition of road?;non flooded;Condition_Recognition
+6421;Is the entire road flooded?;No;Yes_No
+6443;How many buildings can be seen in this image?;3;Simple_Counting
+6443;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6443;How many buildings are non flooded in this image?;3;Complex_Counting
+6444;How many buildings are in this image?;3;Simple_Counting
+6444;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6444;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+6446;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6446;How many buildings are in the image?;4;Simple_Counting
+6446;How many non flooded buildings can be seen in this image?;4;Complex_Counting
+6455;How many buildings can be seen in the image?;3;Simple_Counting
+6455;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+6455;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6456;How many buildings are in this image?;3;Simple_Counting
+6456;Is the entire road non flooded?;Yes;Yes_No
+6456;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6456;How many buildings are non flooded in this image?;3;Complex_Counting
+6456;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6461;How many buildings can be seen in this image?;2;Simple_Counting
+6461;How many non flooded buildings can be seen in this image?;2;Complex_Counting
+6461;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6462;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6462;How many buildings are non flooded?;2;Complex_Counting
+6462;How many buildings are in this image?;2;Simple_Counting
+6464;How many buildings are non flooded?;7;Complex_Counting
+6464;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6464;How many buildings can be seen in the image?;7;Simple_Counting
+6478;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6513;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6513;How many buildings are non flooded?;4;Complex_Counting
+6513;How many buildings can be seen in this image?;4;Simple_Counting
+6516;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6516;How many buildings are in the image?;4;Simple_Counting
+6516;How many buildings are non flooded in this image?;4;Complex_Counting
+6531;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6531;How many buildings are in the image?;3;Simple_Counting
+6531;Is the entire road flooded?;No;Yes_No
+6531;What is the condition of road?;non flooded;Condition_Recognition
+6531;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+6534;What is the condition of road?;non flooded;Condition_Recognition
+6534;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6534;How many buildings are in this image?;2;Simple_Counting
+6534;Is the entire road non flooded?;Yes;Yes_No
+6534;How many buildings are non flooded?;2;Complex_Counting
+6540;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6556;How many buildings are in this image?;4;Simple_Counting
+6556;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6556;How many buildings are non flooded?;4;Complex_Counting
+6563;How many buildings can be seen in the image?;3;Simple_Counting
+6563;Is the entire road non flooded?;Yes;Yes_No
+6563;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6563;What is the condition of road?;non flooded;Condition_Recognition
+6563;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+6595;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6617;What is the condition of road?;non flooded;Condition_Recognition
+6617;Is the entire road flooded?;No;Yes_No
+6617;What is the overall condition of the given image?;flooded;Condition_Recognition
+6628;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6628;How many buildings are non flooded?;3;Complex_Counting
+6628;Is the entire road non flooded?;Yes;Yes_No
+6628;How many buildings are in the image?;3;Simple_Counting
+6628;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6633;What is the overall condition of the given image?;flooded;Condition_Recognition
+6633;Is the entire road non flooded?;Yes;Yes_No
+6633;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6640;Is the entire road flooded?;No;Yes_No
+6640;How many non flooded buildings can be seen in this image?;5;Complex_Counting
+6640;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6640;What is the condition of road?;non flooded;Condition_Recognition
+6640;How many buildings can be seen in this image?;5;Simple_Counting
+6648;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6648;Is the entire road non flooded?;Yes;Yes_No
+6648;How many buildings are non flooded?;4;Complex_Counting
+6648;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6648;How many buildings can be seen in the image?;4;Simple_Counting
+6651;How many buildings can be seen in this image?;5;Simple_Counting
+6651;Is the entire road flooded?;No;Yes_No
+6651;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6651;How many buildings are non flooded?;5;Complex_Counting
+6651;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6660;How many buildings can be seen in the image?;3;Simple_Counting
+6660;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6660;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6660;How many buildings are non flooded?;3;Complex_Counting
+6660;Is the entire road non flooded?;Yes;Yes_No
+6664;How many non flooded buildings can be seen in this image?;1;Complex_Counting
+6664;How many buildings can be seen in the image?;1;Simple_Counting
+6664;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6667;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6692;How many buildings can be seen in the image?;3;Simple_Counting
+6692;How many buildings are non flooded in this image?;3;Complex_Counting
+6692;Is the entire road non flooded?;Yes;Yes_No
+6692;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6692;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6711;What is the overall condition of the given image?;flooded;Condition_Recognition
+6711;What is the condition of road?;flooded;Condition_Recognition
+6711;Is the entire road flooded?;Yes;Yes_No
+6711;How many buildings are in this image?;9;Simple_Counting
+6711;How many buildings are flooded in this image?;8;Complex_Counting
+6711;How many buildings are non flooded in this image?;1;Complex_Counting
+6739;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6739;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+6739;How many buildings are in the image?;3;Simple_Counting
+6748;Is the entire road flooded?;No;Yes_No
+6748;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6748;How many buildings can be seen in this image?;4;Simple_Counting
+6748;How many buildings are non flooded?;4;Complex_Counting
+6748;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6749;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6749;How many buildings are non flooded in this image?;4;Complex_Counting
+6749;How many buildings can be seen in this image?;4;Simple_Counting
+6754;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6754;Is the entire road non flooded?;Yes;Yes_No
+6754;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6754;How many buildings can be seen in the image?;3;Simple_Counting
+6754;How many buildings are non flooded?;3;Complex_Counting
+6755;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6755;Is the entire road non flooded?;Yes;Yes_No
+6755;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6763;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6763;Is the entire road flooded?;No;Yes_No
+6763;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6792;How many buildings are non flooded?;8;Complex_Counting
+6792;Is the entire road flooded?;No;Yes_No
+6792;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6792;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6792;How many buildings can be seen in the image?;8;Simple_Counting
+6814;How many buildings can be seen in the image?;2;Simple_Counting
+6814;How many buildings are non flooded?;2;Complex_Counting
+6814;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6819;What is the condition of road?;non flooded;Condition_Recognition
+6819;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6819;Is the entire road flooded?;No;Yes_No
+6819;How many buildings are non flooded?;1;Complex_Counting
+6819;How many buildings are in the image?;1;Simple_Counting
+6842;How many buildings can be seen in the image?;6;Simple_Counting
+6842;Is the entire road flooded?;No;Yes_No
+6842;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6842;What is the condition of road?;non flooded;Condition_Recognition
+6842;How many buildings are non flooded?;6;Complex_Counting
+6843;Is the entire road flooded?;No;Yes_No
+6843;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6843;How many buildings can be seen in this image?;7;Simple_Counting
+6843;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6843;How many non flooded buildings can be seen in this image?;7;Complex_Counting
+6853;Is the entire road flooded?;No;Yes_No
+6853;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6853;How many non flooded buildings can be seen in this image?;2;Complex_Counting
+6853;How many buildings are in this image?;2;Simple_Counting
+6853;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6900;What is the condition of road?;non flooded;Condition_Recognition
+6900;Is the entire road flooded?;No;Yes_No
+6900;How many buildings are in the image?;4;Simple_Counting
+6900;How many buildings are non flooded?;4;Complex_Counting
+6900;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6909;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6909;How many buildings are non flooded?;3;Complex_Counting
+6909;Is the entire road flooded?;No;Yes_No
+6909;What is the condition of road?;non flooded;Condition_Recognition
+6909;How many buildings can be seen in this image?;3;Simple_Counting
+6914;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6914;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6914;Is the entire road non flooded?;Yes;Yes_No
+6953;How many buildings are non flooded in this image?;2;Complex_Counting
+6953;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6953;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6953;How many buildings are in the image?;2;Simple_Counting
+6953;Is the entire road non flooded?;Yes;Yes_No
+6964;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6964;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6964;How many buildings can be seen in this image?;4;Simple_Counting
+6964;How many buildings are non flooded?;4;Complex_Counting
+6964;Is the entire road flooded?;No;Yes_No
+6972;Is the entire road flooded?;No;Yes_No
+6972;How many buildings are non flooded?;3;Complex_Counting
+6972;How many buildings are in the image?;3;Simple_Counting
+6972;What is the condition of the road in this image?;non flooded;Condition_Recognition
+6972;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6982;Is the entire road non flooded?;Yes;Yes_No
+6982;How many buildings can be seen in this image?;3;Simple_Counting
+6982;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6982;What is the condition of road?;non flooded;Condition_Recognition
+6982;How many buildings are non flooded in this image?;3;Complex_Counting
+6997;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6997;What is the condition of road?;non flooded;Condition_Recognition
+6997;Is the entire road non flooded?;Yes;Yes_No
+6998;What is the overall condition of the given image?;non flooded;Condition_Recognition
+6998;What is the condition of road?;non flooded;Condition_Recognition
+6998;Is the entire road non flooded?;Yes;Yes_No
+7003;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7008;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7027;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7044;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7044;How many non flooded buildings can be seen in this image?;1;Complex_Counting
+7044;How many buildings are in this image?;1;Simple_Counting
+7046;How many buildings can be seen in the image?;2;Simple_Counting
+7046;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7046;How many buildings are non flooded?;2;Complex_Counting
+7071;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7071;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7071;Is the entire road non flooded?;Yes;Yes_No
+7072;What is the condition of road?;non flooded;Condition_Recognition
+7072;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7072;Is the entire road flooded?;No;Yes_No
+7079;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7081;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7082;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7094;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7110;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7110;Is the entire road non flooded?;Yes;Yes_No
+7110;How many buildings are non flooded?;1;Complex_Counting
+7110;What is the condition of road?;non flooded;Condition_Recognition
+7110;How many buildings can be seen in the image?;1;Simple_Counting
+7115;How many buildings are in the image?;4;Simple_Counting
+7115;Is the entire road non flooded?;Yes;Yes_No
+7115;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7115;How many non flooded buildings can be seen in this image?;4;Complex_Counting
+7115;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7165;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7170;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7175;Is the entire road non flooded?;Yes;Yes_No
+7175;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7175;What is the condition of road?;non flooded;Condition_Recognition
+7176;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7176;Is the entire road flooded?;No;Yes_No
+7176;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7186;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7189;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7195;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7195;Is the entire road flooded?;No;Yes_No
+7195;How many buildings are in this image?;2;Simple_Counting
+7195;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7195;How many buildings are non flooded?;2;Complex_Counting
+7205;What is the overall condition of the given image?;flooded;Condition_Recognition
+7205;What is the condition of road?;non flooded;Condition_Recognition
+7205;How many buildings are non flooded?;2;Complex_Counting
+7205;Is the entire road flooded?;No;Yes_No
+7205;How many buildings can be seen in the image?;2;Simple_Counting
+7209;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7209;Is the entire road flooded?;No;Yes_No
+7209;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7211;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7211;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7211;Is the entire road non flooded?;Yes;Yes_No
+7256;What is the condition of the road in this image?;flooded;Condition_Recognition
+7256;How many buildings are flooded?;9;Complex_Counting
+7256;What is the overall condition of the given image?;flooded;Condition_Recognition
+7256;How many buildings can be seen in the image?;9;Simple_Counting
+7256;Is the entire road flooded?;Yes;Yes_No
+7258;Is the entire road flooded?;Yes;Yes_No
+7258;What is the condition of the road in this image?;flooded;Condition_Recognition
+7258;How many buildings are flooded?;3;Complex_Counting
+7258;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+7258;How many buildings are in this image?;6;Simple_Counting
+7258;What is the overall condition of the given image?;flooded;Condition_Recognition
+7265;What is the condition of the road in this image?;flooded;Condition_Recognition
+7265;What is the overall condition of the given image?;flooded;Condition_Recognition
+7265;How many buildings are flooded?;14;Complex_Counting
+7265;How many buildings can be seen in this image?;14;Simple_Counting
+7265;Is the entire road non flooded?;No;Yes_No
+7270;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7270;How many buildings are non flooded?;8;Complex_Counting
+7270;How many buildings are in this image?;8;Simple_Counting
+7299;What is the condition of road?;flooded;Condition_Recognition
+7299;How many flooded buildings can be seen in this image?;13;Complex_Counting
+7299;What is the overall condition of the given image?;flooded;Condition_Recognition
+7299;Is the entire road flooded?;Yes;Yes_No
+7299;How many buildings are in this image?;13;Simple_Counting
+7316;How many buildings are in this image?;18;Simple_Counting
+7316;How many flooded buildings can be seen in this image?;14;Complex_Counting
+7316;Is the entire road non flooded?;No;Yes_No
+7316;What is the condition of the road in this image?;flooded;Condition_Recognition
+7316;How many non flooded buildings can be seen in this image?;4;Complex_Counting
+7316;What is the overall condition of the given image?;flooded;Condition_Recognition
+7321;How many buildings are in the image?;19;Simple_Counting
+7321;Is the entire road flooded?;Yes;Yes_No
+7321;What is the condition of road?;flooded;Condition_Recognition
+7321;What is the overall condition of the given image?;flooded;Condition_Recognition
+7321;How many buildings are flooded?;16;Complex_Counting
+7321;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+7322;What is the condition of the road in this image?;flooded;Condition_Recognition
+7322;How many buildings can be seen in the image?;23;Simple_Counting
+7322;How many buildings are flooded in this image?;20;Complex_Counting
+7322;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+7322;Is the entire road flooded?;Yes;Yes_No
+7322;What is the overall condition of the given image?;flooded;Condition_Recognition
+7332;Is the entire road non flooded?;No;Yes_No
+7332;How many buildings are non flooded in this image?;1;Complex_Counting
+7332;How many buildings are flooded in this image?;16;Complex_Counting
+7332;How many buildings can be seen in this image?;17;Simple_Counting
+7332;What is the overall condition of the given image?;flooded;Condition_Recognition
+7332;What is the condition of road?;flooded;Condition_Recognition
+7353;What is the overall condition of the given image?;flooded;Condition_Recognition
+7353;How many buildings are non flooded?;2;Complex_Counting
+7353;How many buildings can be seen in this image?;2;Simple_Counting
+7354;How many buildings are in this image?;4;Simple_Counting
+7354;What is the condition of road?;flooded;Condition_Recognition
+7354;What is the overall condition of the given image?;flooded;Condition_Recognition
+7354;Is the entire road non flooded?;No;Yes_No
+7354;How many flooded buildings can be seen in this image?;4;Complex_Counting
+7377;How many buildings are flooded?;2;Complex_Counting
+7377;What is the overall condition of the given image?;flooded;Condition_Recognition
+7377;Is the entire road non flooded?;No;Yes_No
+7377;How many buildings can be seen in this image?;5;Simple_Counting
+7377;What is the condition of the road in this image?;flooded;Condition_Recognition
+7377;How many buildings are non flooded in this image?;3;Complex_Counting
+7430;What is the overall condition of the given image?;flooded;Condition_Recognition
+7430;How many buildings are in the image?;11;Simple_Counting
+7430;How many buildings are flooded in this image?;11;Complex_Counting
+7443;How many flooded buildings can be seen in this image?;1;Complex_Counting
+7443;What is the overall condition of the given image?;flooded;Condition_Recognition
+7443;How many buildings are in the image?;1;Simple_Counting
+7445;How many flooded buildings can be seen in this image?;6;Complex_Counting
+7445;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7445;How many buildings are in this image?;6;Simple_Counting
+7453;What is the overall condition of the given image?;flooded;Condition_Recognition
+7453;What is the condition of the road in this image?;flooded;Condition_Recognition
+7453;How many flooded buildings can be seen in this image?;2;Complex_Counting
+7453;How many buildings can be seen in the image?;2;Simple_Counting
+7453;Is the entire road flooded?;Yes;Yes_No
+7463;What is the condition of the road in this image?;flooded;Condition_Recognition
+7463;How many buildings are in the image?;13;Simple_Counting
+7463;What is the overall condition of the given image?;flooded;Condition_Recognition
+7463;How many buildings are non flooded in this image?;4;Complex_Counting
+7463;How many buildings are flooded in this image?;9;Complex_Counting
+7463;Is the entire road flooded?;Yes;Yes_No
+7473;How many flooded buildings can be seen in this image?;16;Complex_Counting
+7473;How many buildings are in the image?;16;Simple_Counting
+7473;What is the overall condition of the given image?;flooded;Condition_Recognition
+7473;What is the condition of the road in this image?;flooded;Condition_Recognition
+7473;Is the entire road flooded?;Yes;Yes_No
+7522;What is the condition of road?;flooded;Condition_Recognition
+7522;How many buildings are in the image?;23;Simple_Counting
+7522;Is the entire road flooded?;Yes;Yes_No
+7522;How many buildings are flooded?;23;Complex_Counting
+7522;What is the overall condition of the given image?;flooded;Condition_Recognition
+7523;How many buildings can be seen in the image?;21;Simple_Counting
+7523;How many buildings are flooded?;21;Complex_Counting
+7523;What is the overall condition of the given image?;flooded;Condition_Recognition
+7523;Is the entire road non flooded?;No;Yes_No
+7523;What is the condition of road?;flooded;Condition_Recognition
+7542;Is the entire road non flooded?;No;Yes_No
+7542;How many buildings are flooded?;30;Complex_Counting
+7542;What is the overall condition of the given image?;flooded;Condition_Recognition
+7542;How many buildings can be seen in this image?;30;Simple_Counting
+7542;What is the condition of road?;flooded;Condition_Recognition
+7597;How many flooded buildings can be seen in this image?;13;Complex_Counting
+7597;How many buildings can be seen in this image?;13;Simple_Counting
+7597;Is the entire road non flooded?;No;Yes_No
+7597;What is the condition of road?;flooded;Condition_Recognition
+7597;What is the overall condition of the given image?;flooded;Condition_Recognition
+7603;What is the overall condition of the given image?;flooded;Condition_Recognition
+7603;Is the entire road non flooded?;No;Yes_No
+7603;How many buildings are in the image?;7;Simple_Counting
+7603;What is the condition of the road in this image?;flooded;Condition_Recognition
+7603;How many buildings are flooded?;7;Complex_Counting
+7609;What is the condition of road?;flooded;Condition_Recognition
+7609;How many buildings are in the image?;18;Simple_Counting
+7609;What is the overall condition of the given image?;flooded;Condition_Recognition
+7609;Is the entire road non flooded?;No;Yes_No
+7609;How many flooded buildings can be seen in this image?;18;Complex_Counting
+7614;What is the overall condition of the given image?;flooded;Condition_Recognition
+7614;Is the entire road flooded?;Yes;Yes_No
+7614;How many buildings are in this image?;18;Simple_Counting
+7614;What is the condition of the road in this image?;flooded,non flooded;Condition_Recognition
+7614;How many buildings are flooded in this image?;5;Complex_Counting
+7614;How many buildings are non flooded?;13;Complex_Counting
+7645;How many buildings can be seen in the image?;1;Simple_Counting
+7645;What is the overall condition of the given image?;flooded;Condition_Recognition
+7645;How many buildings are non flooded in this image?;1;Complex_Counting
+7645;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7645;Is the entire road flooded?;No;Yes_No
+7665;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7665;How many buildings can be seen in this image?;1;Simple_Counting
+7665;How many non flooded buildings can be seen in this image?;1;Complex_Counting
+7680;Is the entire road flooded?;No;Yes_No
+7680;How many buildings can be seen in the image?;3;Simple_Counting
+7680;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7680;How many non flooded buildings can be seen in this image?;3;Complex_Counting
+7680;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7702;What is the condition of road?;non flooded;Condition_Recognition
+7702;How many non flooded buildings can be seen in this image?;2;Complex_Counting
+7702;How many buildings are in the image?;2;Simple_Counting
+7702;Is the entire road non flooded?;Yes;Yes_No
+7702;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7704;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7707;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7714;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7715;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7724;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7750;How many non flooded buildings can be seen in this image?;1;Complex_Counting
+7750;Is the entire road non flooded?;Yes;Yes_No
+7750;What is the condition of road?;non flooded;Condition_Recognition
+7750;How many buildings are in this image?;1;Simple_Counting
+7750;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7766;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7798;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7809;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7837;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7865;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7868;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7878;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7882;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7882;Is the entire road flooded?;No;Yes_No
+7882;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7894;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7894;Is the entire road flooded?;No;Yes_No
+7894;What is the condition of road?;non flooded;Condition_Recognition
+7895;What is the condition of road?;non flooded;Condition_Recognition
+7895;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7895;Is the entire road non flooded?;Yes;Yes_No
+7910;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7916;Is the entire road non flooded?;Yes;Yes_No
+7916;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7916;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7917;Is the entire road flooded?;No;Yes_No
+7917;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7917;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7944;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7954;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7971;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7977;What is the overall condition of the given image?;non flooded;Condition_Recognition
+7977;Is the entire road non flooded?;Yes;Yes_No
+7977;What is the condition of the road in this image?;non flooded;Condition_Recognition
+7980;What is the condition of road?;non flooded;Condition_Recognition
+7980;Is the entire road flooded?;No;Yes_No
+7980;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8011;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8024;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8032;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8047;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8068;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8068;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8068;Is the entire road non flooded?;Yes;Yes_No
+8077;What is the condition of road?;non flooded;Condition_Recognition
+8077;Is the entire road flooded?;No;Yes_No
+8077;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8081;What is the condition of road?;non flooded;Condition_Recognition
+8081;Is the entire road non flooded?;Yes;Yes_No
+8081;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8086;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8086;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8086;Is the entire road flooded?;No;Yes_No
+8093;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8093;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8093;Is the entire road flooded?;No;Yes_No
+8107;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8119;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8131;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8141;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8152;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8152;Is the entire road non flooded?;Yes;Yes_No
+8152;What is the condition of road?;non flooded;Condition_Recognition
+8166;What is the condition of road?;non flooded;Condition_Recognition
+8166;Is the entire road non flooded?;Yes;Yes_No
+8166;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8167;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8167;What is the condition of road?;non flooded;Condition_Recognition
+8167;Is the entire road non flooded?;Yes;Yes_No
+8172;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8172;What is the condition of road?;non flooded;Condition_Recognition
+8172;Is the entire road non flooded?;Yes;Yes_No
+8193;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8230;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8240;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8241;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8245;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8265;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8298;Is the entire road flooded?;No;Yes_No
+8298;What is the condition of road?;non flooded;Condition_Recognition
+8298;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8319;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8334;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8357;Is the entire road flooded?;No;Yes_No
+8357;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8357;What is the condition of road?;non flooded;Condition_Recognition
+8359;How many buildings are non flooded in this image?;1;Complex_Counting
+8359;Is the entire road flooded?;No;Yes_No
+8359;How many buildings are in the image?;1;Simple_Counting
+8359;What is the condition of road?;non flooded;Condition_Recognition
+8359;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8371;Is the entire road non flooded?;Yes;Yes_No
+8371;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8371;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8371;How many non flooded buildings can be seen in this image?;1;Complex_Counting
+8371;How many buildings can be seen in this image?;1;Simple_Counting
+8379;What is the overall condition of the given image?;flooded;Condition_Recognition
+8380;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8386;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8398;Is the entire road non flooded?;Yes;Yes_No
+8398;What is the condition of road?;non flooded;Condition_Recognition
+8398;How many buildings are non flooded in this image?;1;Complex_Counting
+8398;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8398;How many buildings are in the image?;1;Simple_Counting
+8405;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8405;How many buildings can be seen in this image?;3;Simple_Counting
+8405;How many buildings are non flooded in this image?;3;Complex_Counting
+8413;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8417;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8418;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8425;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8425;Is the entire road non flooded?;Yes;Yes_No
+8425;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8480;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8480;Is the entire road flooded?;No;Yes_No
+8480;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8490;Is the entire road flooded?;No;Yes_No
+8490;How many buildings are non flooded?;2;Complex_Counting
+8490;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8490;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8490;How many buildings can be seen in this image?;2;Simple_Counting
+8492;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8492;How many non flooded buildings can be seen in this image?;2;Complex_Counting
+8492;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8492;How many buildings can be seen in the image?;2;Simple_Counting
+8492;Is the entire road flooded?;No;Yes_No
+8493;How many buildings are non flooded in this image?;2;Complex_Counting
+8493;Is the entire road flooded?;No;Yes_No
+8493;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8493;How many buildings are in the image?;2;Simple_Counting
+8493;What is the condition of road?;non flooded;Condition_Recognition
+8496;How many buildings are in this image?;1;Simple_Counting
+8496;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8496;Is the entire road non flooded?;Yes;Yes_No
+8496;How many non flooded buildings can be seen in this image?;1;Complex_Counting
+8496;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8507;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8508;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8512;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8550;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8555;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8589;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8590;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8604;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8605;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8774;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8774;Is the entire road non flooded?;Yes;Yes_No
+8774;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8798;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8803;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8805;How many buildings are in the image?;1;Simple_Counting
+8805;How many non flooded buildings can be seen in this image?;1;Complex_Counting
+8805;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8907;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8907;Is the entire road non flooded?;Yes;Yes_No
+8907;What is the condition of road?;non flooded;Condition_Recognition
+8909;Is the entire road non flooded?;Yes;Yes_No
+8909;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8909;What is the condition of road?;non flooded;Condition_Recognition
+8910;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8910;Is the entire road flooded?;No;Yes_No
+8910;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8918;What is the condition of road?;non flooded;Condition_Recognition
+8918;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8918;Is the entire road flooded?;No;Yes_No
+8943;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8943;What is the condition of road?;non flooded;Condition_Recognition
+8943;How many buildings are non flooded?;1;Complex_Counting
+8943;Is the entire road non flooded?;Yes;Yes_No
+8943;How many buildings can be seen in the image?;1;Simple_Counting
+8955;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8955;How many buildings are non flooded?;1;Complex_Counting
+8955;Is the entire road non flooded?;Yes;Yes_No
+8955;What is the condition of the road in this image?;non flooded;Condition_Recognition
+8955;How many buildings are in this image?;1;Simple_Counting
+8966;What is the condition of road?;non flooded;Condition_Recognition
+8966;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8966;Is the entire road flooded?;No;Yes_No
+8971;What is the overall condition of the given image?;non flooded;Condition_Recognition
+8971;What is the condition of road?;non flooded;Condition_Recognition
+8971;Is the entire road flooded?;No;Yes_No
+8971;How many buildings are in this image?;1;Simple_Counting
+8971;How many buildings are non flooded?;1;Complex_Counting
+9026;Is the entire road flooded?;No;Yes_No
+9026;What is the condition of road?;non flooded;Condition_Recognition
+9026;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9036;Is the entire road non flooded?;Yes;Yes_No
+9036;How many buildings can be seen in this image?;2;Simple_Counting
+9036;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9036;What is the condition of the road in this image?;non flooded;Condition_Recognition
+9036;How many buildings are non flooded?;2;Complex_Counting
+9053;How many buildings are non flooded?;4;Complex_Counting
+9053;What is the condition of road?;non flooded;Condition_Recognition
+9053;Is the entire road non flooded?;Yes;Yes_No
+9053;How many buildings can be seen in this image?;4;Simple_Counting
+9053;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9091;What is the condition of the road in this image?;non flooded;Condition_Recognition
+9091;How many non flooded buildings can be seen in this image?;4;Complex_Counting
+9091;How many buildings can be seen in this image?;4;Simple_Counting
+9091;Is the entire road non flooded?;Yes;Yes_No
+9091;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9101;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9101;How many buildings can be seen in this image?;6;Simple_Counting
+9101;Is the entire road flooded?;No;Yes_No
+9101;What is the condition of road?;non flooded;Condition_Recognition
+9101;How many buildings are non flooded?;6;Complex_Counting
+9106;How many buildings are in this image?;6;Simple_Counting
+9106;How many buildings are non flooded?;6;Complex_Counting
+9106;Is the entire road non flooded?;Yes;Yes_No
+9106;What is the condition of road?;non flooded;Condition_Recognition
+9106;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9115;Is the entire road flooded?;No;Yes_No
+9115;What is the condition of road?;non flooded;Condition_Recognition
+9115;How many buildings are non flooded in this image?;1;Complex_Counting
+9115;How many buildings are in this image?;1;Simple_Counting
+9115;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9278;What is the condition of road?;non flooded;Condition_Recognition
+9278;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9278;Is the entire road non flooded?;Yes;Yes_No
+9343;Is the entire road flooded?;No;Yes_No
+9343;How many buildings are non flooded in this image?;50;Complex_Counting
+9343;How many buildings can be seen in this image?;50;Simple_Counting
+9343;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9343;What is the condition of the road in this image?;non flooded;Condition_Recognition
+9351;How many buildings are in this image?;46;Simple_Counting
+9351;What is the condition of the road in this image?;non flooded;Condition_Recognition
+9351;How many non flooded buildings can be seen in this image?;46;Complex_Counting
+9351;Is the entire road flooded?;No;Yes_No
+9351;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9459;How many non flooded buildings can be seen in this image?;5;Complex_Counting
+9459;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9459;Is the entire road non flooded?;Yes;Yes_No
+9459;What is the condition of road?;non flooded;Condition_Recognition
+9459;How many buildings are in the image?;5;Simple_Counting
+9875;How many buildings are non flooded in this image?;2;Complex_Counting
+9875;How many buildings can be seen in this image?;2;Simple_Counting
+9875;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9880;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9880;How many buildings are non flooded in this image?;1;Complex_Counting
+9880;How many buildings are in the image?;1;Simple_Counting
+9887;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9925;How many buildings are in this image?;3;Simple_Counting
+9925;What is the condition of the road in this image?;non flooded;Condition_Recognition
+9925;How many buildings are non flooded?;3;Complex_Counting
+9925;What is the overall condition of the given image?;non flooded;Condition_Recognition
+9925;Is the entire road flooded?;No;Yes_No
