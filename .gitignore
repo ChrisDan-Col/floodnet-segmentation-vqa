@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv_app/
+venv/
+env/
+
+# Dataset (downloaded separately, see README)
+Datasets/
+predicted_masks/
+
+# Large checkpoints (published as release assets, see README)
+*.pt
+*.pth
+*.ckpt
+experiments/ssl_mae/**/model.safetensors
+
+# Keep the LoRA adapter, it is small enough to version
+!experiments/vqa/lora/adapter/adapter_model.safetensors
+
+# Tooling
+.mlruns/
+mlruns/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
